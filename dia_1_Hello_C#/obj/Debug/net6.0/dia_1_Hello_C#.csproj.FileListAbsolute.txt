@@ -1,0 +1,15 @@
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.csproj.AssemblyReference.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.AssemblyInfoInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.AssemblyInfo.cs
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.csproj.CoreCompileInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/bin/Debug/net6.0/dia_1_Hello_C#
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/bin/Debug/net6.0/dia_1_Hello_C#.deps.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/bin/Debug/net6.0/dia_1_Hello_C#.runtimeconfig.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/bin/Debug/net6.0/dia_1_Hello_C#.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/bin/Debug/net6.0/ref/dia_1_Hello_C#.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/bin/Debug/net6.0/dia_1_Hello_C#.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/ref/dia_1_Hello_C#.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_1_Hello_C#/obj/Debug/net6.0/dia_1_Hello_C#.genruntimeconfig.cache
