@@ -1,0 +1,15 @@
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.csproj.AssemblyReference.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.AssemblyInfoInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.AssemblyInfo.cs
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.csproj.CoreCompileInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/bin/Debug/net6.0/dia_02_condicionais_loops
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/bin/Debug/net6.0/dia_02_condicionais_loops.deps.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/bin/Debug/net6.0/dia_02_condicionais_loops.runtimeconfig.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/bin/Debug/net6.0/dia_02_condicionais_loops.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/bin/Debug/net6.0/ref/dia_02_condicionais_loops.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/bin/Debug/net6.0/dia_02_condicionais_loops.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/ref/dia_02_condicionais_loops.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_02_condicionais_loops/obj/Debug/net6.0/dia_02_condicionais_loops.genruntimeconfig.cache

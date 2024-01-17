@@ -1,0 +1,15 @@
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.csproj.AssemblyReference.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.AssemblyInfoInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.AssemblyInfo.cs
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.csproj.CoreCompileInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/bin/Debug/net6.0/dia_03_Array_Funcoes_execoes
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/bin/Debug/net6.0/dia_03_Array_Funcoes_execoes.deps.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/bin/Debug/net6.0/dia_03_Array_Funcoes_execoes.runtimeconfig.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/bin/Debug/net6.0/dia_03_Array_Funcoes_execoes.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/bin/Debug/net6.0/ref/dia_03_Array_Funcoes_execoes.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/bin/Debug/net6.0/dia_03_Array_Funcoes_execoes.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/ref/dia_03_Array_Funcoes_execoes.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_03_Array_Funcoes_execoes/obj/Debug/net6.0/dia_03_Array_Funcoes_execoes.genruntimeconfig.cache
