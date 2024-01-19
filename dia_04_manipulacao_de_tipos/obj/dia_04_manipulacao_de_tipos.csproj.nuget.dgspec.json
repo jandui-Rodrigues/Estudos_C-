@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/dia_04_manipulacao_de_tipos.csproj": {}
+  },
+  "projects": {
+    "/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/dia_04_manipulacao_de_tipos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/dia_04_manipulacao_de_tipos.csproj",
+        "projectName": "dia_04_manipulacao_de_tipos",
+        "projectPath": "/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/dia_04_manipulacao_de_tipos.csproj",
+        "packagesPath": "/home/jandui/.nuget/packages/",
+        "outputPath": "/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jandui/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

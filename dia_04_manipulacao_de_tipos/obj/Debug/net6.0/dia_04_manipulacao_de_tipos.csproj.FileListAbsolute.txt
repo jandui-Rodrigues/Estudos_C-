@@ -1,0 +1,15 @@
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/bin/Debug/net6.0/dia_04_manipulacao_de_tipos
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/bin/Debug/net6.0/dia_04_manipulacao_de_tipos.deps.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/bin/Debug/net6.0/dia_04_manipulacao_de_tipos.runtimeconfig.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/bin/Debug/net6.0/dia_04_manipulacao_de_tipos.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/bin/Debug/net6.0/ref/dia_04_manipulacao_de_tipos.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/bin/Debug/net6.0/dia_04_manipulacao_de_tipos.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.csproj.AssemblyReference.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.AssemblyInfoInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.AssemblyInfo.cs
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.csproj.CoreCompileInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/ref/dia_04_manipulacao_de_tipos.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_04_manipulacao_de_tipos/obj/Debug/net6.0/dia_04_manipulacao_de_tipos.genruntimeconfig.cache
