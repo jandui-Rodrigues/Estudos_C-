@@ -1,4 +1,5 @@
 ﻿using Composicao;
+using Heranca;
 
 class Progam
 {
@@ -18,6 +19,13 @@ class Progam
         };
         var server = new Server();
         server.StartServer();
+
+        var ogre = new Ogre();
+        Console.WriteLine($"Ogre Health: {ogre.Health}");
+        var goblin = new Goblin();
+        Console.WriteLine($"Goblin Health: {goblin.Health}");
+        Console.WriteLine(Monster.Count);
+
     }
 }
 
