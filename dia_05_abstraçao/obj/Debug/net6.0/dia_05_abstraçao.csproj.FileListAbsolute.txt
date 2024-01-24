@@ -1,0 +1,15 @@
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.csproj.AssemblyReference.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.GeneratedMSBuildEditorConfig.editorconfig
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.AssemblyInfoInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.AssemblyInfo.cs
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.csproj.CoreCompileInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/bin/Debug/net6.0/dia_05_abstraçao
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/bin/Debug/net6.0/dia_05_abstraçao.deps.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/bin/Debug/net6.0/dia_05_abstraçao.runtimeconfig.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/bin/Debug/net6.0/dia_05_abstraçao.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/bin/Debug/net6.0/ref/dia_05_abstraçao.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/bin/Debug/net6.0/dia_05_abstraçao.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/ref/dia_05_abstraçao.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_05_abstraçao/obj/Debug/net6.0/dia_05_abstraçao.genruntimeconfig.cache

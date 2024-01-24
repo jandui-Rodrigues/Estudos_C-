@@ -5,7 +5,6 @@ using TypesAdvanceds;
 // Console.WriteLine(TestandoString.StringReplace("Esse e um teste", "teste", "exemplo"));
 
 int index = TestandoString.StringIndexOf("Esse e um teste", "teste");
-
 // Console.WriteLine(TestandoString.RemovePalavraPeloIndex("Esse e um teste", index, 5));
 
 // Console.WriteLine(TestandoString.StringContains("Esse e um teste", "teste"));

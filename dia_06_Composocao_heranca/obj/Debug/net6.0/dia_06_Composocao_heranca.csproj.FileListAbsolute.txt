@@ -1,0 +1,15 @@
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.csproj.AssemblyReference.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.AssemblyInfoInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.AssemblyInfo.cs
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.csproj.CoreCompileInputs.cache
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/bin/Debug/net6.0/dia_06_Composocao_heranca
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/bin/Debug/net6.0/dia_06_Composocao_heranca.deps.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/bin/Debug/net6.0/dia_06_Composocao_heranca.runtimeconfig.json
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/bin/Debug/net6.0/dia_06_Composocao_heranca.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/bin/Debug/net6.0/ref/dia_06_Composocao_heranca.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/bin/Debug/net6.0/dia_06_Composocao_heranca.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/ref/dia_06_Composocao_heranca.dll
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.pdb
+/home/jandui/Documentos/Estudos/Estudos_C#/dia_06_Composocao_heranca/obj/Debug/net6.0/dia_06_Composocao_heranca.genruntimeconfig.cache
