@@ -1,6 +1,7 @@
 ﻿using Composicao;
 using Heranca;
 using Intefaces;
+using Abstrac;
 
 class Progam
 {
@@ -21,7 +22,24 @@ class Progam
         // var server = new Server();
         // server.StartServer();
         IStarted serverI = new ServerI();
-        serverI.Start();
+        // serverI.Start();
+        
+        Instrument[] instruments = new Instrument[3];
+        instruments[0] = new Guitar();
+        instruments[1] = new Piano();
+        instruments[2] = new Bateria();
+
+        void PlayInstrument(Instrument instrument)
+        {
+            
+            Console.WriteLine($"Playing {instrument.Type}");
+            instrument.PlayInstrument();
+            
+        }
+        for(int index = 0; index < instruments.Length; index += 1)
+        {
+            PlayInstrument(instruments[index]);
+        }
 
     }
 }
