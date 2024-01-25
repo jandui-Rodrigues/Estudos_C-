@@ -1,5 +1,6 @@
 ﻿using Composicao;
 using Heranca;
+using Intefaces;
 
 class Progam
 {
@@ -17,14 +18,10 @@ class Progam
                 Capacity = 2000
             }
         };
-        var server = new Server();
-        server.StartServer();
-
-        var ogre = new Ogre();
-        Console.WriteLine($"Ogre Health: {ogre.Health}");
-        var goblin = new Goblin();
-        Console.WriteLine($"Goblin Health: {goblin.Health}");
-        Console.WriteLine(Monster.Count);
+        // var server = new Server();
+        // server.StartServer();
+        IStarted serverI = new ServerI();
+        serverI.Start();
 
     }
 }
