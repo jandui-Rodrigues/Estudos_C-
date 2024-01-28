@@ -2,7 +2,7 @@
 using Heranca;
 using Intefaces;
 using Abstrac;
-
+using Modificadores;
 class Progam
 {
     public static void Main()
@@ -24,22 +24,24 @@ class Progam
         IStarted serverI = new ServerI();
         // serverI.Start();
         
-        Instrument[] instruments = new Instrument[3];
-        instruments[0] = new Guitar();
-        instruments[1] = new Piano();
-        instruments[2] = new Bateria();
+        // Instrument[] instruments = new Instrument[3];
+        // instruments[0] = new Guitar();
+        // instruments[1] = new Piano();
+        // instruments[2] = new Bateria();
 
-        void PlayInstrument(Instrument instrument)
-        {
+        // void PlayInstrument(Instrument instrument)
+        // {
             
-            Console.WriteLine($"Playing {instrument.Type}");
-            instrument.PlayInstrument();
+        //     Console.WriteLine($"Playing {instrument.Type}");
+        //     instrument.PlayInstrument();
             
-        }
-        for(int index = 0; index < instruments.Length; index += 1)
-        {
-            PlayInstrument(instruments[index]);
-        }
+        // }
+        // for(int index = 0; index < instruments.Length; index += 1)
+        // {
+        //     PlayInstrument(instruments[index]);
+        // }
+    
+       
 
     }
 }
