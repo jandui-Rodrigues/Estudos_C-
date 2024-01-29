@@ -1,8 +1,8 @@
-
-namespace dia_07_Web_Api.Test;
+namespace TestApi.Test;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
-using dia_07_Web_Api.Controllers;
+using TestApi.Controllers;
+
 
 public class IntegrationTest: IClassFixture<WebApplicationFactory<Program>>
 {
@@ -12,8 +12,9 @@ public class IntegrationTest: IClassFixture<WebApplicationFactory<Program>>
     {
         _clientTest = factory.CreateClient();
     }
+    
 
-    [Theory(DisplayName = "Tetando a rota /clients")]
+    [Theory(DisplayName = "Testando a rota /GET Clients")]
     [InlineData("/clients")]
     public async Task TestGetClients(string url)
     {

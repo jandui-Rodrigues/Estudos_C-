@@ -1,4 +1,4 @@
-namespace dia_07_Web_Api.Core;
+namespace TestApi.Core;
 
 public class ClientRequest
 {
@@ -17,13 +17,11 @@ public class ClientRequest
         };
     }
 
-     public Client UpdateClient(Client client)
+    public Client UpdateClient(Client client)
     {
         client.Name = Name;
         client.AccountBalance = AccountBalance;
         client.UpdatedAt = DateTime.Now;
         return client;
     }
-
-    
 }

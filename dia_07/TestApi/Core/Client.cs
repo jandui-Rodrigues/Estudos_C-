@@ -1,4 +1,4 @@
-namespace dia_07_Web_Api.Core;
+namespace TestApi.Core;
 
 public class Client
 {

@@ -1,20 +1,20 @@
-namespace dia_07_Web_Api.Controllers;
+
+namespace TestApi.Controllers;
 using Microsoft.AspNetCore.Mvc;
-using dia_07_Web_Api.Core;
+using TestApi.Core;
+
+// {id:alpha}: Restringe o parâmetro para conter apenas letras
+// {id:bool}: Restringe o parâmetro para representar valores booleanos
+// {id:datetime}: Restringe para usar valores de Data e Hora
+// {id:Guid}: Restringe para usar apenas Guids
 
 [ApiController]
 [Route("clients")]
+/// [Route("Default/GetRecordsById/{id:int:min(1)}")]   
 public class ClientController : ControllerBase
 {
     private static List<Client> _clients = new();
     private static int _nextId = 1;
-
-    [HttpGet]
-
-    public ActionResult List()
-    {
-        return StatusCode(200, _clients);
-    }
 
     [HttpPost]
     public ActionResult Create(ClientRequest request)
@@ -25,7 +25,7 @@ public class ClientController : ControllerBase
         return StatusCode(201, client);
     }
 
-    [HttpPut("{id}")]
+    [HttpPut("{id: int:min(1)}")]
     public ActionResult Update(int id, ClientRequest request)
     {
         var client = _clients.FirstOrDefault(c => c.Id == id);
@@ -47,5 +47,12 @@ public class ClientController : ControllerBase
             return NotFound("Client not found");
 
         return NoContent();
+    }
+
+
+    [HttpGet]
+    public ActionResult List()
+    {
+        return StatusCode(200, _clients);
     }
 }
