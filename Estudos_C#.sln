@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dia_07", "dia_07", "{6480FC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dia_07_Web_Api", "dia_07\dia_07_Web_Api\dia_07_Web_Api.csproj", "{1F6390EE-56E5-469D-BECF-9652EDFA5A56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dia_09_LinQ_DTO", "dia_09_LinQ_DTO\dia_09_LinQ_DTO.csproj", "{B65CEC7C-CD27-488D-9718-57D06E08557C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{1F6390EE-56E5-469D-BECF-9652EDFA5A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F6390EE-56E5-469D-BECF-9652EDFA5A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F6390EE-56E5-469D-BECF-9652EDFA5A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65CEC7C-CD27-488D-9718-57D06E08557C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65CEC7C-CD27-488D-9718-57D06E08557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65CEC7C-CD27-488D-9718-57D06E08557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65CEC7C-CD27-488D-9718-57D06E08557C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
